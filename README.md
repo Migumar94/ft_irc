@@ -26,6 +26,6 @@ Este proyecto fue desarrollado sin frameworks externos, utilizando únicamente l
 ## 🛠️ Compilación
 
 ```bash
-git clone https://github.com/LycaonPictus/ft_irc.git
+git clone git@github.com:Migumar94/ft_irc.git
 cd ft_irc
 make
